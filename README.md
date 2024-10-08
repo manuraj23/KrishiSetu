@@ -83,4 +83,4 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   https://github.com/manuraj23/KrishiSetu.gits
