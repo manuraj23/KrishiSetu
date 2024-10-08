@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526055588541",
+    "project_id": "krishi-setu-2f87f",
+    "storage_bucket": "krishi-setu-2f87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526055588541:android:da64277c9ab5ef84b8add4",
+        "android_client_info": {
+          "package_name": "com.example.krishi_setu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71xI1gwjCTEOvuTHoxl10nE5amB0DSX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
